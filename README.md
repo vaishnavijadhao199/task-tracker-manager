@@ -1,4 +1,4 @@
-# 📋 Task Manager - Complete Full-Stack Application
+<img width="827" height="834" alt="Screenshot 4png" src="https://github.com/user-attachments/assets/82150784-403e-458b-a861-573d885153bb" /># 📋 Task Manager - Complete Full-Stack Application
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
